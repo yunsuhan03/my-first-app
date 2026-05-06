@@ -7,3 +7,7 @@
 - Item 1
 - Item 2
   - Nested item
+
+```python
+print("Hello, world!")
+```
